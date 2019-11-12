@@ -1,1 +1,11 @@
  pip install -r requirements.txt
+
+Download login.py and geckodriver in your linux system
+
+save geckodriver to : /root/Downloads/driver/
+
+Example : 
+
+python3 login.py -u SAPID -p password
+
+Your password and SAPID is protected.
